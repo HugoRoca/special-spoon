@@ -1,0 +1,12 @@
+
+Esta es mi historia con el curso de git en platzi
+
+my historia
+
+other text
+
+other text on branch master
+
+branch cabecera
+
+other text on branch cabecera
